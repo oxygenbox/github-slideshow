@@ -1,6 +1,5 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Welcome to oxygen box slide!"
 ---
-This is a slide from oxygenbox
 Use the left arrow to go back!
